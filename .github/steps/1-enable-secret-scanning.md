@@ -31,7 +31,7 @@ Now that you have secret scanning enabled in this repository, let's commit a new
 3. Display the `credentials.yml` file.
 4. Click the Edit button to the right.
 
-   ![A screenshot of credentials.yml on the GitHub web interface with the edit button outlined](/images/edit-credentials-file.png)
+   ![A screenshot of credentials.yml on the GitHub web interface with the edit button outlined](https://github.com/user-attachments/assets/22025708-306a-4577-96d4-9296bc218a03)
 
 5. Copy the following text and paste it at the bottom of the `credentials.yml` file.
 

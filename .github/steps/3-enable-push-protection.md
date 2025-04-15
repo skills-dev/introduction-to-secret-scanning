@@ -30,7 +30,7 @@ Now that push protection for secret scanning is enabled, new secrets that secret
 
 5. Delete `<REMOVEME>` from the string you just pasted. The `<REMOVEME>` string is there so secret scanning doesn't create an alert before you're able to test push protection. Your file should look like this:
 
-   ![Screenshot of credentials.yml being edited in the GitHub web interface. A newly added github-token is highlighted.](/images/push-protection.png)
+   ![Screenshot of credentials.yml being edited in the GitHub web interface. A newly added github-token is highlighted.](https://github.com/user-attachments/assets/728f3502-bd0b-4ea7-a956-af9c3e606439)
 
 6. Select **Commit changes...**.
 7. Select **Commit changes**.
