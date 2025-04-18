@@ -29,7 +29,7 @@ inputs:
 
 outputs:
   result:
-    description: "JSON object containing the test result"
+    description: "A stringified JSON object containing the test result summary."
 
 runs:
   using: "composite"
